@@ -1,0 +1,8 @@
+C:/maven/Verilog_labs/verilog/tb/seq_gen_tb.v {1 {vlog -work work -stats=none C:/maven/Verilog_labs/verilog/tb/seq_gen_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seq_gen_tb
+
+Top level modules:
+	seq_gen_tb
+
+} {} {}}
